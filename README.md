@@ -48,7 +48,7 @@ This project focuses on identifying:
 
 ## Dashboard Preview
 
-![Dashboard Preview]()
+![Dashboard Preview](image_wellness/wellness_analysis_image.png)
 
 ## Business Recommendations
 - Introduce workload balancing strategies for high-pressure departments.
